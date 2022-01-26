@@ -1,0 +1,23 @@
+{
+  "name": "learning-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziemp66/Learning-Bootstrap.git"
+  },
+  "author": "Azie Melza Pratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aziemp66/Learning-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/aziemp66/Learning-Bootstrap#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.2",
+    "bootstrap": "^5.1.3"
+  }
+}
